@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message><![CDATA[<p>This is a test</p>]]></message>
-        <name>Test Rule</name>
+        <name>Test Rule Updated</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
